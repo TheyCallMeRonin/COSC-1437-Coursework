@@ -1,0 +1,12 @@
+class SongLyrics {
+    public static void main(String[] args) {
+        // Write your code here
+        System.out.println("Lost on the way, no one to blame, no one to save,");
+        System.out.println("nothing to do with the way everything's changed.");
+        System.out.println("Lost I feel a little like, a child who's lost, a little like,");
+        System.out.println("everything's changed a lot, I didn't like all of the pain.");
+        System.out.println("Lost, confused, a lot of it, is hard to take, and cause of it,");
+        System.out.println("everything's changed I thought I'd make it through the pain.");
+        System.out.println("Everything's changed.");
+    }
+}
